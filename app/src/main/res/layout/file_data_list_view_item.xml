@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/transactionNumberTextView"
+        android:gravity="left|bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/file_data_text_view"
+        android:paddingTop="8dp"
+        android:paddingLeft="13dp"
+        android:paddingRight="13dp"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/transactionDataTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/file_data_text_view"
+        android:paddingLeft="13dp"
+        android:paddingRight="13dp"
+        android:paddingBottom="8dp" />
+
+</LinearLayout>

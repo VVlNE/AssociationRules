@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AssociationRules</string>
+    <string name="main_activity_name">Ассоциативные правила</string>
+    <string name="open_file_button">Открыть другой файл</string>
+    <string name="file_data_text_view">#данные из файла#</string>
+    <string name="significance_measures_button">Меры значимости</string>
+    <string name="significance_measures_activity_name">Меры значимости</string>
+    <string name="support_measure_title">Поддержка</string>
+    <string name="confidence_measure_title">Достоверность</string>
+    <string name="lift_measure_title">Лифт</string>
+    <string name="leverage_measure_title">Левередж</string>
+    <string name="conviction_measure_title">Улучшение</string>
+    <string name="calculated_data_text_view">#рассчетный параметр#</string>
+    <string name="element_list_text_view">#список элементов#</string>
+    <string name="element_list_title">Список элементов</string>
+    <string name="more_details_button">Подробнее</string>
+    <string name="min_measure">Минимум</string>
+    <string name="enter_minimum">Введите минимальное значение</string>
+    <string name="enter_maximum">Введите максимальное значение</string>
+    <string name="max_measure">Максимум</string>
+    <string name="recommendation_button">Рекомендации</string>
+    <string name="recommendation_activity_name">Рекоммендации</string>
+    <string name="interesting_elements_title">Может быть интересно</string>
+    <string name="comment_text_view">#комментарий#</string>
+    <string name="association_title">Ассоциация</string>
+    <string name="significance_measures_title">Меры значимости</string>
+    <string name="two_elements_significance_measures_activity_name">Меры значимости ассоциации</string>
+</resources>
